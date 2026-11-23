@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Henry! 👋
 
-<!--
-**acqnos/acqnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer passionate about technology, software development, and learning new things.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Interested in software development and technology.
+- 🌱 Constantly learning and improving my skills.
+- 🔭 Exploring new technologies and building projects.
+- 🤝 Open to collaboration and exciting opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+<!-- Add your favorite technologies here -->
+- Programming Languages: Coming soon...
+- Tools & Technologies: Coming soon...
+
+### 🤝 Connect With Me
+
+- GitHub: [@acqnos](https://github.com/acqnos)
+- Email: acqnos@gmail.com
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my repositories.*
